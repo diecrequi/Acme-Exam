@@ -1,0 +1,42 @@
+# i18n-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+inventor.toolkit.form.label.title = Title
+inventor.toolkit.form.label.code = Code
+inventor.toolkit.form.label.description = Description
+inventor.toolkit.form.label.assemblyNotes = Assembly notes
+inventor.toolkit.form.label.link = Link
+
+inventor.announcement.list.label.title = Title
+inventor.announcement.list.label.body = Body
+
+inventor.toolkit.list.button.create = New Toolkit
+
+inventor.toolkit.form.button.update = Update
+inventor.toolkit.form.button.delete = Delete
+inventor.toolkit.form.button.publish = Publish
+
+inventor.Chimpum.period.code-error = This code is already on use
+
+inventor.toolkit.list.label.title = Title
+inventor.toolkit.list.label.code = Code
+
+inventor.toolkit.form.label.code = Code
+inventor.toolkit.form.label.title = Title
+inventor.toolkit.form.label.description = Description
+inventor.toolkit.form.label.assemblyNotes = Assembly notes
+inventor.toolkit.form.label.link = Link	
+
+any.toolkit.form.button.partOf.component = Components
+any.toolkit.form.button.partOf.tool = Tools
+inventor.toolkit.list.label.title = Title
+inventor.toolkit.list.label.code = Code
+
+any.toolkit.form.button.partOf = Parts Of

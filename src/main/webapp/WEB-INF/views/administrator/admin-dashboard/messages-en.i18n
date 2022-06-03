@@ -1,0 +1,37 @@
+# i18n-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.dashboard.form.title.admin-dashboard = Admin dashboard
+administrator.dashboard.form.title.components = Components
+administrator.dashboard.form.label.total-number-of-components = Total number of components
+administrator.dashboard.form.title.technologies = Technologies
+administrator.dashboard.form.title.currencies = Currencies
+administrator.dashboard.form.label.average-prize-for = Average prize for
+administrator.dashboard.form.label.in = in
+administrator.dashboard.form.label.deviation-prize-for = Deviation prize for
+administrator.dashboard.form.label.max-prize-for = Max prize for
+administrator.dashboard.form.label.min-prize-for = Min prize for
+
+administrator.dashboard.form.title.tools = Tools
+administrator.dashboard.form.label.total-number-of-tools = Total number of tools
+administrator.dashboard.form.label.average-prize-in = Average prize in
+administrator.dashboard.form.label.deviation-prize-in = Deviation prize in
+administrator.dashboard.form.label.max-prize-in = Max prize in
+administrator.dashboard.form.label.min-prize-in = Min prize in
+
+administrator.dashboard.form.title.patronages = Patronages
+administrator.dashboard.form.label.total-number-of= Total number of patronages
+administrator.dashboard.form.label.avg-budget-of= Average prize in
+administrator.dashboard.form.label.deviation-budget-of= Deviation prize in
+administrator.dashboard.form.label.max-prize-in= Max prize in
+administrator.dashboard.form.label.min-prize-in= Min prize in
+
+administrator.dashboard.form.title.chimpum = Newcals
+administrator.dashboard.form.label.ratio-of-artifacts = Ratio of artifacts with newcals

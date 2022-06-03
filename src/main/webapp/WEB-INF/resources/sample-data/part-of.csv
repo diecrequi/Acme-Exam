@@ -1,0 +1,6 @@
+key,quantity,key:artifact,key:toolkit
+partOf-01,1,artifact-01,toolkit-01
+partOf-02,2,artifact-03,toolkit-01
+partOf-03,4,artifact-04,toolkit-01
+partOf-04,1,artifact-04,toolkit-02
+partOf-05,1,artifact-02,toolkit-02

@@ -1,0 +1,4 @@
+key,creation-moment,title,body,flag,link
+announcement-01,"2022/03/21 17:00",Announcement title, This is an announcement,true,https://www.example.com
+announcement-02,"2022/01/01 00:00",A,A,false,https://www.example.com
+announcement-03,"2021/12/31 23:59","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non nisl tincidunt, facilisis lacu s","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non nisl tincidunt, facilisis lacus id, euismod libero. Vestibulum cursus nunc odio, sit amet convallis dui fermentum et. Nullam odio erat, consectetur sed lobortis eget, mollis quis augue. M",false,https://www.example.com

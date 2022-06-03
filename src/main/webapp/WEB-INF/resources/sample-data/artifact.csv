@@ -1,0 +1,6 @@
+key,name,code,technology,description,retail-price,link,type,key:inventor,isPublish
+artifact-01,Artifact 1,AAA-000-A,Telecommunications,artifact,EUR 0.01,https://es.wikipedia.org/wiki/Artefacto,TOOL,inventor-01,false
+artifact-02,This artifact name has the maximum amount of character which is 100 this is made for testing,AAA-999-Z,Telecommunications,Energy artifact,"USD 1,000.45",null,TOOL,inventor-01,false
+artifact-03,A,ABJ-556-V,Telecommunications,Medical artifact,GBP 123.45,https://es.wikipedia.org/wiki/Software,COMPONENT,inventor-01,false
+artifact-04,Artifact 1,ZZZ-000-J,Telecommunications,This artifact's description will add up to 155 characters in total to check the constraints work as intended so this text is just here to lengthen the stringAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,USD 999.45,null,COMPONENT,inventor-02,false
+artifact-05,Transportation truck with lenghty name,ZZZ-999-A,Transportation,Transportation artifact,"EUR 10,000.01",null,COMPONENT,inventor-01,false

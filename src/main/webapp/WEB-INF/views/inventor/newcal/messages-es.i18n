@@ -1,0 +1,32 @@
+# i18n-es.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+inventor.chimpum.list.label.code = Código
+inventor.chimpum.list.label.title = Tema
+inventor.chimpum.list.label.description = Declaración
+
+inventor.chimpum.form.label.title = Título
+inventor.chimpum.form.label.code = Código
+inventor.chimpum.form.label.creationMoment = Fecha de Creación 
+inventor.chimpum.form.label.description = Declaración
+inventor.chimpum.form.label.period = Periodo
+inventor.chimpum.form.label.budget = Cuota
+inventor.chimpum.form.label.link = Más información
+inventor.chimpum.form.label.artifact = Componente
+
+inventor.chimpum.list.button.create = Nuevo Newcal
+inventor.chimpum.form.label.create = Crear
+inventor.chimpum.form.label.update = Actualizar
+inventor.chimpum.form.label.delete = Eliminar
+
+inventor.Chimpum.code.repeated.retailPrice.non-negative = El presupuesto debe ser positivo
+inventor.Chimpum.period.order-error = La fecha final debe ser posterior a la fecha de inicio
+inventor.Chimpum.period.duration-error = La diferencia entre la fecha de inicio y final debe ser superior a un mes
+inventor.Chimpum.period.code-error = Ya existe este código

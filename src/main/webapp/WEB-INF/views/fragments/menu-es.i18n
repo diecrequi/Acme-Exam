@@ -1,0 +1,101 @@
+# menu-es.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.antquiher1 = 54185066X: Quijano Herrera, Antonio
+master.menu.anonymous.alfcadmor = 49134556R: Cadenas Morales, Alfonso
+master.menu.anonymous.alefrarod = 53772321T: Fraile Rodríguez, Alejandro
+master.menu.anonymous.pedolirod = 20231423W: Oliva Rodríguez, Pedro
+master.menu.anonymous.jualopqui1 = 53769416Q: Lopez Quiros, Juan
+master.menu.anonymous.diecrequi = 30260025Y: Crespo Quinta, Diego
+master.menu.anonymous.artifact.tool = Herramientas
+master.menu.anonymous.artifact.component = Componentes
+master.menu.anonymous.chirp = Chirps
+master.menu.anonymous.tool-kit = Caja de Herramientas
+
+# master.menu.authenticated ########################################################
+
+master.menu.authenticated = Autenticado
+master.menu.authenticated.announcement = Anuncios
+master.menu.authenticated.user-account = Cuentas de usuario
+
+# master.menu.authenticated #######################################################
+
+master.menu.authenticated = Autenticado
+master.menu.authenticated.systemSetting = Configuración del sistema
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrador
+master.menu.administrator.dashboard = Panel de indicadores
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.populate-initial = Poblar BD (inicial)
+master.menu.administrator.populate-sample = Poblar BD (ejemplos)
+master.menu.administrator.shut-down = Parar el sistema
+master.menu.administrator.system-setting = Configuración del sistema
+
+# master.menu.provider ########################################################
+
+master.menu.provider = Proveedor
+master.menu.provider.favourite-link = Enlace favorito
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumidor
+master.menu.consumer.favourite-link = Enlace favorito
+master.menu.anonymous.diecrequi = 30260025Y: Crespo Quinta, Diego
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.provider = Datos de proveedor
+master.menu.user-account.become-provider = Hazte proveedor
+master.menu.user-account.consumer = Datos de consumidor
+master.menu.user-account.become-consumer = Hazte consumidor
+
+# master.menu.inventor ########################################################
+
+master.menu.inventor = Inventor
+master.menu.inventor.artifact.tool = Herramientas
+master.menu.inventor.artifact.component = Componentes
+master.menu.inventor.patronage = Patrocinio
+patron.patron.form.title.patron-dashboard = Panel de Patrón
+master.menu.inventor.tool-kit = Caja de Herramientas
+master.menu.inventor.chimpum = Chimpums
+
+# master.menu.announcement ########################################################
+master.menu.announcement = Anuncio
+
+# master.menu.tool-kit ########################################################
+master.menu.tool-kit = Caja de Herramientas
+
+
+# master.menu.patron ########################################################
+master.menu.patron = Patrón
+master.menu.patron.patronage = Patrocinio
+
+
+
+master.menu.user-account.become-inventor = Hazte inventor
+master.menu.user-account.become-patron = Hazte patrón
+master.menu.user-account.inventor = Inventor
+master.menu.user-account.patron = Patrón
+
+master.menu.administrator.admin.dashboard = Admin Dashboard

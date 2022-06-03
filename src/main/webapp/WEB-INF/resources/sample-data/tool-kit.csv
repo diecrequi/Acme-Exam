@@ -1,0 +1,5 @@
+key,code,title,description,assembly-notes,link,isPublish,key:inventor
+toolkit-01,AAA-000-P,Toolkit 1,This is the first toolkit,Assembly notes for toolkit number 1,https://es.wikipedia.org/wiki/Artefacto,false,inventor-01
+toolkit-02,ZZZ-999-A,Toolkit 2,This artifact's description will add up to 155 characters in total to check the constraints work as intended so this text is just here to lengthen the stringAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Assembly notes for toolkit number 2,null,false,inventor-02
+toolkit-03,QXA-001-Z,toolkit long 100 length string titleAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,This is the first toolkit,Assembly notes for toolkit number 1,null,false,inventor-02
+toolkit-04,AKL-869-A,Toolkit 4,This is the first toolkit,Assembly notes for toolkit number 5,https://www.areatecnologia.com/informatica/que-es-software.html,false,inventor-01
